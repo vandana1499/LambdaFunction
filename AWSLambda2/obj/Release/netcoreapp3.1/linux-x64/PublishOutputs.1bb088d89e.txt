@@ -1,0 +1,9 @@
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\AWSLambda2.dll
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\AWSLambda2.deps.json
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\AWSLambda2.runtimeconfig.json
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\AWSLambda2.pdb
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\Alexa.NET.dll
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.Json.dll
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\learning\dotnet\AWSLambda2\AWSLambda2\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

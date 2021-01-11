@@ -1,0 +1,21 @@
+
+{
+    "Information" : [
+  
+    ],
+    "profile"     : "",
+    "region"      : "",
+    "configuration" : "",
+    "framework"     : "",
+    "function-runtime" : "",
+    "function-memory-size" : ,
+    "function-timeout"     : ,
+    "function-handler"     : "",
+    "function-name"        : "",
+    "package-type"         : "",
+    "function-role"        : "",
+    "tracing-mode"         : "",
+    "environment-variables" : "",
+    "image-tag"             : "",
+    "function-description"  : ""
+}

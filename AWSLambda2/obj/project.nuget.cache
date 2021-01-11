@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mur7nOnj1ftopXjzanEx6kb4K8xnqx8c08BC3QNvwg/GUCTYYQVIxp2gqOAcfCrgYtUv9X/QtGx/sVuSkIqWZw==",
+  "success": true,
+  "projectFilePath": "D:\\learning\\dotnet\\AWSLambda2_clone\\AWSLambda2\\AWSLambda2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vgupta\\.nuget\\packages\\alexa.net\\1.14.0\\alexa.net.1.14.0.nupkg.sha512",
+    "C:\\Users\\vgupta\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\vgupta\\.nuget\\packages\\amazon.lambda.serialization.json\\1.8.0\\amazon.lambda.serialization.json.1.8.0.nupkg.sha512",
+    "C:\\Users\\vgupta\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\vgupta\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
